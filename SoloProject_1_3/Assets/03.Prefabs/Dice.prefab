@@ -50,7 +50,7 @@ MonoBehaviour:
   _targetLayer:
     serializedVersion: 2
     m_Bits: 0
-  _moveSpeed: 5
+  _moveSpeed: 15
   _lifeTime: 2
   _poolName: BulletDice
 --- !u!212 &2270201080642678930
@@ -94,7 +94,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: ebe73ca9363db456bacf42c025bb4847, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 77217f5db34aa804aa486d52cd09946f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
